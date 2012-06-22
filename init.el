@@ -131,7 +131,7 @@
 
 
 (add-to-list 'auto-mode-alist '("\\.xsd\\'" . nxml-mode)) ;; c-h v, når auto-mode-alist er markert for å se resten av  variablene
-
+(add-to-list 'auto-mode-alist '("\\.vssettings\\'" . nxml-mode)) 
 
 ;;;;;;;;;;;;;;;;;;;;
 ;; set up unicode
